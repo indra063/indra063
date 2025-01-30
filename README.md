@@ -1,5 +1,13 @@
-# 👦 My name is Indra Setiawan
+# 📋 Contribution:
+  
+  <img src="https://github.com/indra063/indra063/blob/output/github-snake-dark.svg" style="width:60%;" alt="snake gif">
+
+</div>
+
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,My name is Indra Setiawan
 🌏 Bachelor's degree in Geography<br>🕵️‍♂️ Working on many Testnet DApp<br>⛓️ Learning Blockchain Node and Validator<br>🖥️ Self-taught beginner mapper<br>🎨 Graphic design is my passion<br>💭 Currently learning about data analytics and [Data visualization](https://story-drops.vercel.app)!<br/>
+<img src="images/me.jpg" align="right" />
+
 
 <h2 align="left">Tech Stack:</h2>
 
@@ -59,12 +67,14 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=indra063&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=indra063&theme=dark&hide_border=false)<br/>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=indra063&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=indra063&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=indra063&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📋 Contribution:
-  
-  ![snake gif](https://github.com/indra063/indra063/blob/output/github-snake-dark.svg)
-
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" style="width:100%;" />
+</p>
