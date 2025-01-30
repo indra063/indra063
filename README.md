@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="220236-ezgif.com-crop.gif" alt="Description" width="100%">
+  <img src="220236-ezgif.com-crop.gif" alt="Description" width="70%">
 </div>
 
 <h1 align="center">Indra Setiawan</h1>
