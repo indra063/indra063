@@ -1,9 +1,3 @@
-<div align="center">
-
-![Image](https://github.com/user-attachments/assets/7c3510dc-d756-438c-a2bc-061042915bd0)
-
-</div>
-
 <h1 align="center">Indra Setiawan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indra063&label=Profile%20views&color=0e75b6&style=flat" alt="indra063" /> </p>
 
