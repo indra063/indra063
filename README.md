@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="220236.gif" alt="Description">
+  <img src="220236.gif" alt="Description" width="100%">
 </div>
 
 <h1 align="center">Indra Setiawan</h1>
