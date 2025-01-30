@@ -1,21 +1,31 @@
 # 📋 Contribution:
   
-  <img src="https://github.com/indra063/indra063/blob/output/github-snake-dark.svg" style="width:60%;" alt="snake gif">
-
+<img src="https://github.com/indra063/indra063/blob/output/github-snake-dark.svg" style="width:60%;" alt="snake gif">
+  
 </div>
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,My name is Indra Setiawan
-
-<table>
-  <tr>
-    <td>
-      🌏 Bachelor's degree in Geography<br>🕵️‍♂️ Working on many Testnet DApp<br>⛓️ Learning Blockchain Node and Validator<br>🖥️ Self-taught beginner mapper<br>🎨 Graphic design in progress
-    </td>
-    <td>
-      <img src="https://github.com/indra063/indra063/blob/fe63f065300630fc876d145d00e857703da7c493/walkmon1930.gif" width="200" />
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/indra063/indra063/blob/fe63f065300630fc876d145d00e857703da7c493/walkmon1930.gif" width="200" align="right">
+  </div>
+<li>
+🌏 Bachelor's degree in Geography</li>
+<li>
+🕵️‍♂️ Working on many Testnet DApp
+</li>
+<li>
+⛓️ Learning Blockchain Node and Validator
+</li>
+<li>
+🖥️ Self-taught beginner mapper
+</li>
+<li>
+🎨 Graphic design is my passions
+</li>
+<li>
+👨‍💻 Building cool things, one challenge at a time 
+</li>
+</div>
+<div>
 
 <h2 align="left">Tech Stack:</h2>
 
