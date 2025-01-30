@@ -1,5 +1,7 @@
-<p align="center"> <img src="https://github.com/indra063/indra063/blob/ee630f0398ea04effaaa3c5d5259d335e45e522d/220236.gif" width="480" height="270"/>
- 
+<div align="center">
+  <img src="220236.gif" alt="Description">
+</div>
+
 <h1 align="center">Indra Setiawan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indra063&label=Profile%20views&color=0e75b6&style=flat" alt="indra063" /> </p>
 
