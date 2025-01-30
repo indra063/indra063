@@ -5,9 +5,11 @@
 </div>
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,My name is Indra Setiawan
-🌏 Bachelor's degree in Geography<br>🕵️‍♂️ Working on many Testnet DApp<br>⛓️ Learning Blockchain Node and Validator<br>🖥️ Self-taught beginner mapper<br>🎨 Graphic design is my passion<br>💭 Currently learning about data analytics and [Data visualization](https://story-drops.vercel.app)!<br/>
-<img src="images/me.jpg" align="right" />
+🌏 Bachelor's degree in Geography<br>🕵️‍♂️ Working on many Testnet DApp<br>⛓️ Learning Blockchain Node and Validator<br>🖥️ Self-taught beginner mapper<br>🎨 Graphic design in progress
 
+<div align="right">
+  <img src="https://github.com/indra063/indra063/blob/fe63f065300630fc876d145d00e857703da7c493/walkmon1930.gif" width="200" />
+</div>
 
 <h2 align="left">Tech Stack:</h2>
 
