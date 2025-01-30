@@ -25,6 +25,7 @@
 👨‍💻 Building cool things, one challenge at a time 
 </li>
 </div>
+<br>
 <div>
 
 <h2 align="left">Tech Stack:</h2>
