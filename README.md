@@ -28,7 +28,7 @@
 <br>
 <div>
 
-<h2 align="left">Tech stack:</h2>
+# Tech stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
@@ -64,6 +64,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="25" alt="premierepro logo"  />
 </div>
 
+# Contact me:
+
 <div align="left">
   <a href="https://indra.setiawann100@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -85,7 +87,7 @@
   </a>
 </div>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=indra063&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
