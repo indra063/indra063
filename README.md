@@ -1,6 +1,6 @@
 # 📋 Contribution:
   
-<img src="https://github.com/indra063/indra063/blob/output/github-snake-dark.svg" style="width:60%;" alt="snake gif">
+<img src="https://github.com/indra063/indra063/blob/output/github-snake-dark.svg" style="width:100%;" alt="snake gif">
   
 </div>
 
@@ -19,7 +19,7 @@
 🖥️ Self-taught beginner mapper
 </li>
 <li>
-🎨 Graphic design is my passions
+🎨 Graphic design is my passion
 </li>
 <li>
 👨‍💻 Building cool things, one challenge at a time 
@@ -28,7 +28,7 @@
 <br>
 <div>
 
-<h2 align="left">Tech Stack:</h2>
+<h2 align="left">Tech stack:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
