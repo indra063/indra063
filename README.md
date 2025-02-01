@@ -43,15 +43,17 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="10" />
+  <img src="https://github.com/indra063/indra063/blob/a9d73dfcfe9e5299c762efb46362ae65c36af50e/Adobe_Illustrator-Logo.wine.png" height="30" alt="adobe illustrator logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="10" />
-  <img src="https://github.com/indra063/indra063/blob/ecc70c9348397d6954b73ea39b5f60d7b54a641e/ArcGIS_logo.png" height="30" alt="ArcGIS logo"  />
+  <img src="https://github.com/indra063/indra063/blob/a9d73dfcfe9e5299c762efb46362ae65c36af50e/ArcGIS.jpg" height="30" alt="arcgis logo"  />
   <img width="10" />
-  <img src="https://github.com/indra063/indra063/blob/ecc70c9348397d6954b73ea39b5f60d7b54a641e/FULL_WHITE.png" height="30" alt="ArcGIS logo"  />
+  <img src="https://github.com/indra063/indra063/blob/a9d73dfcfe9e5299c762efb46362ae65c36af50e/SPN.png" height="30" alt="spn logo"  />
   <img width="10" />
-  <img src="https://github.com/indra063/indra063/blob/ecc70c9348397d6954b73ea39b5f60d7b54a641e/Storyblack.png" height="30" alt="ArcGIS logo"  />
+  <img src="https://github.com/indra063/indra063/blob/a9d73dfcfe9e5299c762efb46362ae65c36af50e/Story%20Logo.png" height="30" alt="story logo"  />
   <img width="10" />
-  <img src="https://github.com/indra063/indra063/blob/ecc70c9348397d6954b73ea39b5f60d7b54a641e/logo-yellow.png" height="40" alt="ArcGIS logo"  />
+  <img src="https://github.com/indra063/indra063/blob/a9d73dfcfe9e5299c762efb46362ae65c36af50e/Sahara.png" height="30" alt="sahara logo"  />
   <img width="10" />
 </div>
 
