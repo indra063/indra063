@@ -12,16 +12,16 @@
 🕵️‍♂️ Currently focused on Testnet DApps like Story Protocol, Sahara AI, and Superposition.
 </li>
 <li>
-⛓️ Learning about Blockchain Nodes and Validators; I'm running a Story Protocol Node and a Live TX Visualizer for their Odyssey Testnet.
+👨‍💻 I enjoy building innovative projects, and taking on one challenge at a time.
 </li>
 <li>
-🖥️ As a self-taught mapper, I help create various maps, including administrative, geological, and custom designs.
+🖥️ As a self-taught mapper, I help create various maps, including administrative, geological, and custom map designs.
 </li>
 <li>
 🎨 I'm passionate about graphic design and am learning digital drawing and flat design.
 </li>
 <li>
-👨‍💻 I enjoy building innovative projects, and taking on one challenge at a time.
+⛓️ Learning about Blockchain Nodes and Validators; Check this <a href "https://story-drops.vercel.app"> Live TX Visualizer for Story Protocol.
 </li>
 </div>
 <br>
