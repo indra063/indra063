@@ -7,18 +7,18 @@
 <img src="https://github.com/indra063/indra063/blob/fe63f065300630fc876d145d00e857703da7c493/walkmon1930.gif" width="200" align="right">
   </div>
 <li>
-🌏 Bachelor's degree in Geography</li>
+🌏 Bachelor's degree in Geography, S1 Geography Education in University of Lambung Mangkurat</li>
 <li>
-🕵️‍♂️ Working on many Testnet DApp
+🕵️‍♂️ Working on many Testnet DApp, currently focusing on Story Protocol, Sahara AI, and Superposition
 </li>
 <li>
-⛓️ Learning Blockchain Node and Validator
+⛓️ Learning Blockchain Node and Validator, Currently running Story Protocol Node, and Live TX Visualizer for their Odyysey testnet
 </li>
 <li>
-🖥️ Self-taught beginner mapper
+🖥️ Self-taught beginner mapper, helping people to make simple administration maps, geological maps, topographical maps, hydrological maps, Soil Maps, and simple custom maps
 </li>
 <li>
-🎨 Graphic design is my passion
+🎨 Graphic design is my passion, learning digital drawing and flat design
 </li>
 <li>
 👨‍💻 Building cool things, one challenge at a time 
