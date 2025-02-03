@@ -21,7 +21,7 @@
 🎨 I'm passionate about graphic design and am learning digital drawing and flat design.
 </li>
 <li>
-⛓️ Learning about Blockchain Nodes and Validators; Check this <a href "https://story-drops.vercel.app"> Live TX Visualizer for Story Protocol.
+⛓️ Learning about Blockchain Nodes and Validators; Check this <a href="https://story-drops.vercel.app"> Live TX Visualizer for Story Protocol.
 </li>
 </div>
 <br>
