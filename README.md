@@ -1,7 +1,6 @@
-# 📋 Contribution:
+# My Contribution:
   
 <img src="https://github.com/indra063/indra063/blob/output/github-snake-dark.svg" style="width:100%;" alt="snake gif">
-  
 </div>
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,My name is Indra Setiawan
