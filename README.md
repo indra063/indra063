@@ -48,12 +48,6 @@
   <img width="10" />
   <img src="https://github.com/indra063/indra063/blob/a9d73dfcfe9e5299c762efb46362ae65c36af50e/ArcGIS.jpg" height="20" alt="arcgis logo"  />
   <img width="10" />
-  <img src="https://github.com/indra063/indra063/blob/a9d73dfcfe9e5299c762efb46362ae65c36af50e/SPN.png" height="20" alt="spn logo"  />
-  <img width="10" />
-  <img src="https://github.com/indra063/indra063/blob/a9d73dfcfe9e5299c762efb46362ae65c36af50e/Story%20Logo.png" height="20" alt="story logo"  />
-  <img width="10" />
-  <img src="https://github.com/indra063/indra063/blob/a9d73dfcfe9e5299c762efb46362ae65c36af50e/Sahara.png" height="20" alt="sahara logo"  />
-  <img width="10" />
 </div>
 
 # Contact me:
